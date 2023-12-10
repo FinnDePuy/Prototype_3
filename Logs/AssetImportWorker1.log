@@ -178,3 +178,80 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 91811.724653 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 002.prefab
+  artifactKey: Guid(cafb3b4966c8c144ebc1342e811a77e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 002.prefab using Guid(cafb3b4966c8c144ebc1342e811a77e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06f33a666b95f5914769484d981245a8') in 0.364556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 23
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 005.prefab
+  artifactKey: Guid(0aa7e00d814a34847b233e57b43f046b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 005.prefab using Guid(0aa7e00d814a34847b233e57b43f046b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f882c3186aaa9686e2d3dbfd605eda4') in 0.028300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 004.prefab
+  artifactKey: Guid(de072453d6abd9945b9827c2c3b809b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 004.prefab using Guid(de072453d6abd9945b9827c2c3b809b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565fabb4da7ee27d29f4b924035fdf79') in 0.021187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 1.313117 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Props/Bookshelf Parent 001.prefab
+  artifactKey: Guid(1790f2f3c6fdb3c4286a5c5f5cef70f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Props/Bookshelf Parent 001.prefab using Guid(1790f2f3c6fdb3c4286a5c5f5cef70f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034854442169740707443d92f8533bf4') in 0.230394 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 508
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Props/Podium Parent 002.prefab
+  artifactKey: Guid(81eb8b1343d137446b9f06b4201681b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Props/Podium Parent 002.prefab using Guid(81eb8b1343d137446b9f06b4201681b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ab9969de34a5dfa39ed4d1b2593059') in 0.014316 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Props/Door Parent 001.prefab
+  artifactKey: Guid(c41ce6c57e761324ba25b51cdf09af54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Props/Door Parent 001.prefab using Guid(c41ce6c57e761324ba25b51cdf09af54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063b02ba643d194201cd0b563273e6ae') in 0.018721 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Props/Empty Bookshelf Parent 002.prefab
+  artifactKey: Guid(ac318d8caf47c9b43aceedd1239acbef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Props/Empty Bookshelf Parent 002.prefab using Guid(ac318d8caf47c9b43aceedd1239acbef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7950be90a5a087a900e2994f8fe594be') in 0.017014 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 3.294739 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Floors & Stair/Floor Rock Parent 003.prefab
+  artifactKey: Guid(3891422441a4c0e4a9e08e3ebdb20727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Floors & Stair/Floor Rock Parent 003.prefab using Guid(3891422441a4c0e4a9e08e3ebdb20727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9060483fd690be3ce05264ed5932ef1') in 0.025538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Floors & Stair/Stair Parent 001.prefab
+  artifactKey: Guid(aa50862e18c864c4f86eb776cd73070c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Floors & Stair/Stair Parent 001.prefab using Guid(aa50862e18c864c4f86eb776cd73070c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e2864c55d864edecc440518bf04073') in 0.018077 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
