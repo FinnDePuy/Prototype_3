@@ -5,6 +5,8 @@ using UnityEngine;
 public class SpiderManager : MonoBehaviour
 {
     [SerializeField] public GameObject spider;
+    public Animation anim;
+    public AnimationClip[] animations;
 
     private void Awake()
     {
@@ -26,5 +28,9 @@ public class SpiderManager : MonoBehaviour
     public void EnableSpider()
     {
         spider.gameObject.SetActive(true);
+    }
+    public void DisableSpider()
+    {
+        spider.gameObject.SetActive(false);
     }
 }
