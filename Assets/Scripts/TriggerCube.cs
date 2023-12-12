@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class TriggerCube : MonoBehaviour
@@ -44,13 +45,15 @@ public class TriggerCube : MonoBehaviour
 
             GameSingleton.main.playerController.GetComponent<PlayerController>().enabled = false;
 
-            StartCoroutine(GameOverText());
+            StartCoroutine(GameOver());
         }
     }
 
-    IEnumerator GameOverText()
+    IEnumerator GameOver()
     {
         yield return new WaitForSeconds(2f);
         gameOverText.enabled = true;
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
