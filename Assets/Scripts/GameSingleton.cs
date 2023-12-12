@@ -10,6 +10,7 @@ public class GameSingleton : MonoBehaviour
     public PlayerController playerController { get; private set; }
     public LanternManager lanternManager { get; private set; }
     public SpiderManager spiderManager { get; private set; }
+    public TriggerCubeManager triggerCubeManager { get; private set; }
 
     // Start is called before the first frame update
     void Start()
@@ -26,6 +27,7 @@ public class GameSingleton : MonoBehaviour
         playerController = GetComponentInChildren<PlayerController>();
         lanternManager = GetComponentInChildren<LanternManager>();
         spiderManager = GetComponentInChildren<SpiderManager>();
+        triggerCubeManager = GetComponentInChildren<TriggerCubeManager>();
     }
 
     // Update is called once per frame

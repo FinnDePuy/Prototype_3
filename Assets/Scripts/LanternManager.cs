@@ -35,6 +35,7 @@ public class LanternManager : MonoBehaviour
             particles.Stop();
             GameSingleton.main.lightManager.RemoveLights();
             GameSingleton.main.spiderManager.EnableSpider();
+            GameSingleton.main.triggerCubeManager.EnableTriggerCubes();
             transform.SetParent(GameSingleton.main.playerController.gameObject.transform);
             transform.localPosition = new Vector3(0.5f, 0.5f, 0.6f);
             Flag = true;
